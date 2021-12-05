@@ -4,7 +4,7 @@ export const Wrapper = styled.div`
 background: var(--darkGrey);
 padding: 0 20px;`;
 export const Content = styled.div`
-display:flex;
+display: flex;
 align-items: center;
 justify-content: space-between;
 max-width: var(--maxWidth);
