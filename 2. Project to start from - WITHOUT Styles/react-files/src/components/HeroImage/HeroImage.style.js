@@ -35,7 +35,7 @@ position: absolute;
 bottom: 40px;
 margin-right: 20px;
 min-height: 100px;
-color: var(--white)
+color: var(--white);
 
 h1 {
     font-size: var(--fontSuperBig);
