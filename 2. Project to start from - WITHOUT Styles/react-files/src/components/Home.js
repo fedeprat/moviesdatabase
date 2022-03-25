@@ -15,7 +15,6 @@ import Button from './Bottom/index.';
 
 const Home = () => {
     const {state, loading, error, setSearchTerm, searchTerm, setIsLoadingMore} = useHomeFetch()
-    console.log(state.results)
 
     if (error) return <div>Something went wrong...</div>
 
