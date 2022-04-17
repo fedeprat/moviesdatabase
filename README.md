@@ -6,4 +6,4 @@ It was built using React and styled components <br>
 I also added session storage inside the useEffect of the custom hooks that fetch the data so it optimizes speed and data transfer <br>
 I am working on an authorization and user login system to rate movies and save them in favourites
 
-![startingLogo](appPics/moviesPage.jpg)
+![startingLogo](appPics/moviesPage.png)
