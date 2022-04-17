@@ -1,4 +1,4 @@
-## LinkedIn: https://www.linkedin.com/in/federico-prat/ <br>
+## LinkedIn: https://www.linkedin.com/in/fred-prat/ <br>
 ## Web deployed: https://movies-place.netlify.app/
 <br>
 This web app fetches data from https://www.themoviedb.org. <br>
